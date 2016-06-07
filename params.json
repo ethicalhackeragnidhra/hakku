@@ -1,0 +1,6 @@
+{
+  "name": "µSploit Framework",
+  "tagline": "µSploit Framework penetration testing",
+  "body": "### Welcome to µSploit Framework home page\r\nµSploit framework is very basic exploit/peneration test tool framework.\r\nInspirited by websploit and metasploit. Websploits development has been sadly ended years ago so i decided to write my own. I have been focused to make µSploit easy (user friendly) and simple to use as possible.\r\nµSploit is written in python 3, and developed on ubuntu.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
