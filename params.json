@@ -1,6 +1,6 @@
 {
   "name": "µSploit Framework",
   "tagline": "µSploit Framework penetration testing",
-  "body": "### Welcome to µSploit Framework home page\r\nThis is official page of µSploit Framework project.\r\n\r\nµSploit is basic penetration testing tool.\r\n\r\n##### Basic features:\r\n\r\n* Run exploits\r\n* Simple UI\r\n* Includes scapy\r\n* Easy to use\r\n* Easy to write your own exploit (module)\r\n* Scripting\r\n\r\n### Screenshots\r\n![](usploitproject.xyz/usploit1.0.1.png)\r\n\r\n### Wiki\r\n[Wiki page](https://github.com/4shadoww/usploit/wiki)",
+  "body": "### Welcome to µSploit Framework home page\r\nThis is official page of µSploit Framework project.\r\n\r\nµSploit is basic penetration testing tool.\r\n\r\n##### Basic features:\r\n\r\n* Run exploits\r\n* Simple UI\r\n* Includes scapy\r\n* Easy to use\r\n* Easy to write your own exploit (module)\r\n* Scripting\r\n\r\n### Screenshots\r\n![](http://usploitproject.xyz/usploit1.0.1.png)\r\n\r\n### Wiki\r\n[Wiki page](https://github.com/4shadoww/usploit/wiki)",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
